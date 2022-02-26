@@ -70,6 +70,8 @@ Email me with any question: kazichaska@gmail.com <br />
 
 ## Deployed Application Video Link 
 Below is the recorded video link of deployed application and how to use it:
+https://youtu.be/8E9EI8pC8XM 
+https://youtu.be/aMFIEGtjBWU 
 
 
 ## Screenshots of the code
